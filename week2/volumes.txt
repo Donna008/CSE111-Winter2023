@@ -1,0 +1,4 @@
+Width is: 111, Aspect Ratio is: 11, The Diameter is: 1 
+Today's date is: 2023-09-22 0.16
+Thank you for contacting us. Have a good day!
+Custumers phone number is:22222
